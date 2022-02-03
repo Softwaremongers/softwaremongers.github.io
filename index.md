@@ -4,4 +4,8 @@
 
 layout: home
 ---
-okay so maybe this was just the problem and im just a fucking idiot.
+# Welcome
+
+**Hello world**, im gonna nut and you cant stop me...
+
+I hope you like it!
