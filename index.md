@@ -4,3 +4,4 @@
 
 layout: home
 ---
+okay so maybe this was just the problem and im just a fucking idiot.
