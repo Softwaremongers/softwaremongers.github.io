@@ -6,6 +6,6 @@ layout: default
 ---
 # Welcome
 
-**Hello world**, im gonna nut and you cant stop me...
+**Hello world**, I think I have figured things out. More to come but fr this time.
 
 I hope you like it!
